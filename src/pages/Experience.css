@@ -1,0 +1,28 @@
+#experience-info {
+    min-height: 25vh;
+}
+
+  .exp img {
+    width: 300px;
+    margin-bottom: 20px;
+    box-shadow: 15px 15px 15px rgba(194, 14, 14, 0.342); 
+    border-radius: 15px;
+  }
+
+  .exp img:hover {
+    width: 350px;
+    transition: all .5s ease;
+  
+  }
+
+  .exp  h4 {
+    color: rgb(233, 228, 228);
+  }
+
+
+  .exp {
+    background:  #0a0106; 
+    padding-top: 50px;
+  padding-bottom: 50px;
+  
+  }
